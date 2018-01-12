@@ -4,8 +4,13 @@ b
 c
 2. Added number from laptop to the middle of the alphabet.
 3
+<<<<<<< HEAD
 4. added this line from laptop
 5
+=======
+4
+5. Added from Ubuntu
+>>>>>>> 9b69c47d39a937c0e76acfcac63829547f8bd245
 6
 d
 e
@@ -16,4 +21,8 @@ h
 i
 j
 k
+<<<<<<< HEAD
 4. added this line from laptop
+=======
+5. Added from Ubuntu
+>>>>>>> 9b69c47d39a937c0e76acfcac63829547f8bd245
